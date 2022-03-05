@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning <img align="center" alt="Rafa-Python" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Rafa-Js" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+- 🌱 I’m currently learning <img align="center" alt="Rafa-Java" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"><img align="center" alt="Rafa-Js" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 
 <div align="center: inline_block">
